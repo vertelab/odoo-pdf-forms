@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution, third part extension
-#    Copyright (C) 2004-2014 Vertel AB (<http://vertel.se>).
+#    Copyright (C) 2004-2014 Vertel Sverige AB (<http://vertel.se>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -22,7 +22,7 @@
 {
     'name': 'Report Forms',
     'version': '0.1',
-    'author': 'Vertel AB',
+    'author': 'Vertel Sverige AB',
     'category': 'base',
     'website': 'http://www.vertel.se',
     'summary': 'Use PDF-forms for advances layouted reports',
